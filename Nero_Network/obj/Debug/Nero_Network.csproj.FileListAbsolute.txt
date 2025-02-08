@@ -1,0 +1,47 @@
+C:\Users\kutin\source\repos\Nero_Network\Nero_Network\bin\Debug\Nero_Network.exe.config
+C:\Users\kutin\source\repos\Nero_Network\Nero_Network\bin\Debug\Nero_Network.exe
+C:\Users\kutin\source\repos\Nero_Network\Nero_Network\bin\Debug\Nero_Network.pdb
+C:\Users\kutin\source\repos\Nero_Network\Nero_Network\obj\Debug\Nero_Network.csproj.AssemblyReference.cache
+C:\Users\kutin\source\repos\Nero_Network\Nero_Network\obj\Debug\Nero_Network.csproj.SuggestedBindingRedirects.cache
+C:\Users\kutin\source\repos\Nero_Network\Nero_Network\obj\Debug\Nero_Network.Form1.resources
+C:\Users\kutin\source\repos\Nero_Network\Nero_Network\obj\Debug\Nero_Network.Properties.Resources.resources
+C:\Users\kutin\source\repos\Nero_Network\Nero_Network\obj\Debug\Nero_Network.csproj.GenerateResource.cache
+C:\Users\kutin\source\repos\Nero_Network\Nero_Network\obj\Debug\Nero_Network.csproj.CoreCompileInputs.cache
+C:\Users\kutin\source\repos\Nero_Network\Nero_Network\obj\Debug\Nero_Network.exe
+C:\Users\kutin\source\repos\Nero_Network\Nero_Network\obj\Debug\Nero_Network.pdb
+C:\Users\kutin\source\repos\Nero_Network\Nero_Network\obj\Debug\Nero_Network.Form2.resources
+C:\Users\kutin\OneDrive\Документы\Учёба\6 сем\Нейронка\Nero_Network\Nero_Network\bin\Debug\Nero_Network.exe.config
+C:\Users\kutin\OneDrive\Документы\Учёба\6 сем\Нейронка\Nero_Network\Nero_Network\bin\Debug\Nero_Network.exe
+C:\Users\kutin\OneDrive\Документы\Учёба\6 сем\Нейронка\Nero_Network\Nero_Network\bin\Debug\Nero_Network.pdb
+C:\Users\kutin\OneDrive\Документы\Учёба\6 сем\Нейронка\Nero_Network\Nero_Network\obj\Debug\Nero_Network.csproj.AssemblyReference.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\6 сем\Нейронка\Nero_Network\Nero_Network\obj\Debug\Nero_Network.csproj.SuggestedBindingRedirects.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\6 сем\Нейронка\Nero_Network\Nero_Network\obj\Debug\Nero_Network.Form1.resources
+C:\Users\kutin\OneDrive\Документы\Учёба\6 сем\Нейронка\Nero_Network\Nero_Network\obj\Debug\Nero_Network.Form2.resources
+C:\Users\kutin\OneDrive\Документы\Учёба\6 сем\Нейронка\Nero_Network\Nero_Network\obj\Debug\Nero_Network.Properties.Resources.resources
+C:\Users\kutin\OneDrive\Документы\Учёба\6 сем\Нейронка\Nero_Network\Nero_Network\obj\Debug\Nero_Network.csproj.GenerateResource.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\6 сем\Нейронка\Nero_Network\Nero_Network\obj\Debug\Nero_Network.csproj.CoreCompileInputs.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\6 сем\Нейронка\Nero_Network\Nero_Network\obj\Debug\Nero_Network.exe
+C:\Users\kutin\OneDrive\Документы\Учёба\6 сем\Нейронка\Nero_Network\Nero_Network\obj\Debug\Nero_Network.pdb
+C:\Users\kutin\OneDrive\Документы\Учёба\Всё очень плохо\6 сем\Нейронка\Nero_Network\Nero_Network\obj\Debug\Nero_Network.csproj.AssemblyReference.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\Всё очень плохо\6 сем\Нейронка\Nero_Network\Nero_Network\obj\Debug\Nero_Network.Form1.resources
+C:\Users\kutin\OneDrive\Документы\Учёба\Всё очень плохо\6 сем\Нейронка\Nero_Network\Nero_Network\obj\Debug\Nero_Network.Form2.resources
+C:\Users\kutin\OneDrive\Документы\Учёба\Всё очень плохо\6 сем\Нейронка\Nero_Network\Nero_Network\obj\Debug\Nero_Network.Properties.Resources.resources
+C:\Users\kutin\OneDrive\Документы\Учёба\Всё очень плохо\6 сем\Нейронка\Nero_Network\Nero_Network\obj\Debug\Nero_Network.csproj.GenerateResource.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\Всё очень плохо\6 сем\Нейронка\Nero_Network\Nero_Network\obj\Debug\Nero_Network.csproj.CoreCompileInputs.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\Всё очень плохо\6 сем\Нейронка\Nero_Network\Nero_Network\obj\Debug\Nero_Network.exe
+C:\Users\kutin\OneDrive\Документы\Учёба\Всё очень плохо\6 сем\Нейронка\Nero_Network\Nero_Network\obj\Debug\Nero_Network.pdb
+C:\Users\kutin\OneDrive\Документы\Учёба\Всё очень плохо\6 сем\Нейронка\Nero_Network\Nero_Network\bin\Debug\Nero_Network.exe.config
+C:\Users\kutin\OneDrive\Документы\Учёба\Всё очень плохо\6 сем\Нейронка\Nero_Network\Nero_Network\bin\Debug\Nero_Network.exe
+C:\Users\kutin\OneDrive\Документы\Учёба\Всё очень плохо\6 сем\Нейронка\Nero_Network\Nero_Network\bin\Debug\Nero_Network.pdb
+C:\Users\kutin\OneDrive\Документы\Учёба\Всё очень плохо\6 сем\Нейронка\Nero_Network\Nero_Network\obj\Debug\Nero_Network.csproj.SuggestedBindingRedirects.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\bin\Debug\Nero_Network.exe.config
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\bin\Debug\Nero_Network.exe
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\bin\Debug\Nero_Network.pdb
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.csproj.AssemblyReference.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.Form1.resources
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.Form2.resources
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.Properties.Resources.resources
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.csproj.GenerateResource.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.csproj.CoreCompileInputs.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.exe
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.pdb

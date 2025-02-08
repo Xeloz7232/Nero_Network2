@@ -1,0 +1,33 @@
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\bin\Debug\Nero_Network.exe.config
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\bin\Debug\Nero_Network.exe
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\bin\Debug\Nero_Network.pdb
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\obj\Debug\Nero_Network2.csproj.AssemblyReference.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.Form1.resources
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.Form2.resources
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.Properties.Resources.resources
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\obj\Debug\Nero_Network2.csproj.GenerateResource.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\obj\Debug\Nero_Network2.csproj.CoreCompileInputs.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.exe
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.pdb
+C:\Users\kutin\Desktop\Nero_Network2\Nero_Network\bin\Debug\Nero_Network.exe.config
+C:\Users\kutin\Desktop\Nero_Network2\Nero_Network\bin\Debug\Nero_Network.exe
+C:\Users\kutin\Desktop\Nero_Network2\Nero_Network\bin\Debug\Nero_Network.pdb
+C:\Users\kutin\Desktop\Nero_Network2\Nero_Network\obj\Debug\Nero_Network2.csproj.AssemblyReference.cache
+C:\Users\kutin\Desktop\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.Form1.resources
+C:\Users\kutin\Desktop\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.Form2.resources
+C:\Users\kutin\Desktop\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.Properties.Resources.resources
+C:\Users\kutin\Desktop\Nero_Network2\Nero_Network\obj\Debug\Nero_Network2.csproj.GenerateResource.cache
+C:\Users\kutin\Desktop\Nero_Network2\Nero_Network\obj\Debug\Nero_Network2.csproj.CoreCompileInputs.cache
+C:\Users\kutin\Desktop\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.exe
+C:\Users\kutin\Desktop\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.pdb
+F:\Nero_Network2\Nero_Network\bin\Debug\Nero_Network.exe.config
+F:\Nero_Network2\Nero_Network\bin\Debug\Nero_Network.exe
+F:\Nero_Network2\Nero_Network\bin\Debug\Nero_Network.pdb
+F:\Nero_Network2\Nero_Network\obj\Debug\Nero_Network2.csproj.AssemblyReference.cache
+F:\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.Form1.resources
+F:\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.Form2.resources
+F:\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.Properties.Resources.resources
+F:\Nero_Network2\Nero_Network\obj\Debug\Nero_Network2.csproj.GenerateResource.cache
+F:\Nero_Network2\Nero_Network\obj\Debug\Nero_Network2.csproj.CoreCompileInputs.cache
+F:\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.exe
+F:\Nero_Network2\Nero_Network\obj\Debug\Nero_Network.pdb
